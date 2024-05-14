@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "Profile"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - project.qmd
+        
 
 format:
   html:

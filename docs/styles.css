@@ -1,1 +1,35 @@
-/* css styles */
+/* style.css */
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+table {
+    margin: 0 auto;
+}
+
+td {
+    padding: 10px;
+}
+
+.content {
+    max-width: 800px;
+    margin: 20px;
+}
+
+.content h1, .content h2, .content p {
+    margin: 20px 0;
+}
+
