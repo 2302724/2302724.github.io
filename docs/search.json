@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "About Me",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! My name is Leena Soo. I am currently a student in Singapore Institute of Technology pursuing a degree in Applied Artificial Intelligence.\n\n\nI completed my O’Levels in 2018 and went on to Singapore Polytechnic to pursue a Diploma in Bioengineering. After finishing my studies, I took a gap year and worked with Biosensors, a company specialised in building catheters as an Research and Design Engineer. I really enjoyed my entire time there where I get to witness the behind the scene of the building something for inert of the body, how precise we have to be. As much as engineering is my forte, I do want to still continue my studies in something that the world is currently moving towards to which is technology. Hence, I made a decision to continue on studies in Degree in Applied Artificial Intelligence.\n\n\n\nOver my student life, I have always worked part time along side my studies.\n\n\n\nIn my free time, I enjoy play games as well as trying new things where recently I have been enjoyed rockclimbing and travelling.\n\n\n\nFeel free to reach out to me via [your contact information or social media links].\n\nThank you for taking the time to learn a bit about me!"
   },
   {
     "objectID": "temp_website/index.html",
@@ -26,5 +26,33 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#early-life",
+    "href": "index.html#early-life",
+    "title": "About Me",
+    "section": "",
+    "text": "I completed my O’Levels in 2018 and went on to Singapore Polytechnic to pursue a Diploma in Bioengineering. After finishing my studies, I took a gap year and worked with Biosensors, a company specialised in building catheters as an Research and Design Engineer. I really enjoyed my entire time there where I get to witness the behind the scene of the building something for inert of the body, how precise we have to be. As much as engineering is my forte, I do want to still continue my studies in something that the world is currently moving towards to which is technology. Hence, I made a decision to continue on studies in Degree in Applied Artificial Intelligence."
+  },
+  {
+    "objectID": "index.html#career",
+    "href": "index.html#career",
+    "title": "About Me",
+    "section": "",
+    "text": "Over my student life, I have always worked part time along side my studies."
+  },
+  {
+    "objectID": "index.html#interests-and-hobbies",
+    "href": "index.html#interests-and-hobbies",
+    "title": "About Me",
+    "section": "",
+    "text": "In my free time, I enjoy play games as well as trying new things where recently I have been enjoyed rockclimbing and travelling."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "About Me",
+    "section": "",
+    "text": "Feel free to reach out to me via [your contact information or social media links].\n\nThank you for taking the time to learn a bit about me!"
   }
 ]

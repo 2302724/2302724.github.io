@@ -1,11 +1,30 @@
 ---
-title: "temp_website"
+title: "About Me"
+author: "Leena Soo Wei Qi"
+format: html
 ---
 
-This is a Quarto website.
+# Introduction
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello! My name is **Leena Soo**. I am currently a student in Singapore Institute of Technology pursuing a degree in Applied Artificial Intelligence. 
 
-```{r}
-1 + 1
-```
+## Early Life
+
+I completed my O'Levels in 2018 and went on to Singapore Polytechnic to pursue a Diploma in Bioengineering. After finishing my studies, I took a gap year and worked with Biosensors, a company specialised in building catheters as an Research and Design Engineer. I really enjoyed my entire time there where I get to witness the behind the scene of the building something for inert of the body, how precise we have to be. As much as engineering is my forte, I do want to still continue my studies in something that the world is currently moving towards to which is technology. Hence, I made a decision to continue on studies in Degree in Applied Artificial Intelligence.
+
+## Career
+
+Over my student life, I have always worked part time along side my studies. 
+
+## Interests and Hobbies
+
+In my free time, I enjoy play games as well as trying new things where recently I have been enjoyed rockclimbing and travelling. 
+
+## Contact
+
+Feel free to reach out to me via [your contact information or social media links].
+
+---
+
+Thank you for taking the time to learn a bit about me!
+
