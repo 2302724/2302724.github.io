@@ -6,6 +6,8 @@ format: html
 
 # Introduction
 
+![](me.jpg)
+
 Hello! My name is **Leena Soo**. I am currently a student in Singapore Institute of Technology pursuing a degree in Applied Artificial Intelligence. 
 
 ## Early Life
@@ -18,11 +20,12 @@ Over my student life, I have always worked part time along side my studies.
 
 ## Interests and Hobbies
 
-In my free time, I enjoy play games as well as trying new things where recently I have been enjoyed rockclimbing and travelling. 
+In my free time, I enjoy play games as well as trying new things where recently I have been enjoyed rockclimbing and travelling. I love to play with my two beautiful children too!
+![](babies.jpg)
 
 ## Contact
 
-Feel free to reach out to me via [your contact information or social media links].
+Feel free to reach out to me via [Linkedin](linkedin.com/leenaswq)
 
 ---
 
